@@ -1,0 +1,3 @@
+keyboard==0.13.5
+PyDirectInput==1.0.4
+PyYAML==6.0.1

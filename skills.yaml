@@ -1,0 +1,15 @@
+kick:
+  cooldown: 8.5
+  inkey: 'f21'
+  outkey: '4'
+sense:
+  cooldown: 2.5
+  inkey: '2'
+  outkey: '5'
+tracking:
+  cooldown: 10.5
+  inkey: '2'
+  outkey: '6'
+forage:
+  cooldown: 100
+  inkey: '7'
